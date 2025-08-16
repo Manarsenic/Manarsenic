@@ -1,4 +1,4 @@
-# <p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=38C87F&height=100&section=header&text=BLUFF!&fontSize=35&fontColor=8B177A" /></p>
+# <p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=38C87F&height=100&section=header&text=BLUFF!&fontSize=35&fontColor=876B17A" /></p>
 
 <h1 align="center">👋 Hey there, I'm <span style="color: #FF5A01;">Manas Kumar</span></h1>
 
@@ -78,4 +78,4 @@
   </a>
 </p>
 
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=waving-text&color=FFD700&height=50&section=footer&text=Keep%20coding!&fontSize=25&fontColor=4B263E" /></p>
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=waving-text&color=FFD700&height=50&section=footer&text=Keep%20coding!&fontSize=25&fontColor=4B273E" /></p>
